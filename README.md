@@ -3,6 +3,7 @@ Simple magisk module that allows you to invert/swap buttons if you use old firmw
 
 Options for self-defining button function was added in FW1.0.8 firmware so now you are able to swap/invert your buttons(if you use screen rotation 180 degrees) without need to update with this module
 
+There are 3 different versions so pick whatever you prefer
 
 Code changes "gpio-keys.kl" file
 
